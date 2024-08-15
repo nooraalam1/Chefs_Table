@@ -4,7 +4,7 @@ import Ingradients from './Ingradients';
 const RecipeCard = ({recipe}) => {
     return (
         <div className=''>
-           <div className="card bg-base-100  shadow-xl">
+           <div className="card bg-base-300 border-black shadow-xl">
   <figure>
     <img
       src={recipe.recipe_image}

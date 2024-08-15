@@ -11,8 +11,8 @@ const MainPart = () => {
     },[])
 
     return (
-        <div className='md:flex'>
-            <div className="w-3/5 md:grid grid-cols-2 gap-4">
+        <div className='md:flex gap-5'>
+            <div className=" w-3/5 md:grid grid-cols-2 gap-4">
                 {
                     recipes.map(recipe=> <RecipeCard recipe={recipe}></RecipeCard>)
                 }

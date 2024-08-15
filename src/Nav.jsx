@@ -5,10 +5,10 @@ const Nav = () => {
         <div className='text-center md:flex justify-evenly items-center mt-4'>
             <h1 className='md:font-bold text-2xl'>Recipe Calories</h1>
            <div className="text-center md:flex gap-3">
-           <button>Home</button>
-            <button>Recipes</button>
-            <button>About</button>
-            <button>Search</button>
+           <button className='hover:bg-green-500'>Home</button>
+            <button className='hover:bg-green-500'>Recipes</button>
+            <button className='hover:bg-green-500'>About</button>
+            <button className='hover:bg-green-500'>Search</button>
            </div>
             <div className='flex items-center justify-center'>
             <label className="md:input input-bordered flex items-center gap-2">
