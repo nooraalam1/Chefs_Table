@@ -1,7 +1,7 @@
 import React from 'react';
 import Ingradients from './Ingradients';
 
-const RecipeCard = ({recipe}) => {
+const RecipeCard = ({recipe,wantToCook}) => {
     return (
         <div className=''>
            <div className="card bg-base-300 border-black shadow-xl">
@@ -29,7 +29,7 @@ const RecipeCard = ({recipe}) => {
     
 
     <div className="card-actions justify-center">
-      <button className="btn btn-primary">Want To Cook</button>
+      <button onClick={()=>wantToCook(recipe)} className="btn btn-primary">Want To Cook</button>
     </div>
   </div>
 </div>
