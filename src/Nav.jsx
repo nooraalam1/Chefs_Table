@@ -4,10 +4,12 @@ const Nav = () => {
     return (
         <div className='text-center md:flex justify-evenly items-center mt-4'>
             <h1 className='md:font-bold text-2xl'>Recipe Calories</h1>
-            <button>Home</button>
+           <div className="text-center md:flex gap-3">
+           <button>Home</button>
             <button>Recipes</button>
             <button>About</button>
             <button>Search</button>
+           </div>
             <div className='flex items-center justify-center'>
             <label className="md:input input-bordered flex items-center gap-2">
   <input type="text" className="grow" placeholder="Search" />
@@ -23,7 +25,7 @@ const Nav = () => {
   </svg>
 </label>
 
-<div className='ml-2 w-8'><img src="./public/img/Frame 5.png" alt="" srcset="" /></div>
+<div className='flex justify-center items-center ml-2 w-8'><button><img src="./public/img/Frame 5.png" alt="" srcset="" /></button></div>
             </div>
         </div>
     );

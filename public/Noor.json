@@ -1,0 +1,87 @@
+[
+    {
+      "recipe_image": "./public/img/Rectangle 20170 (1).png",
+      "recipe_id": "1",
+      "recipe_name": "Chicken Stir Fry",
+      "short_description": "A quick and easy chicken stir fry with vegetables and a savory sauce.",
+      "ingredients": [
+        "550g chicken",
+        "120ml soy sauce",
+        "200g basil leaf",
+        "400g mushroom"
+      ],
+      "preparing_time": "30min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "./public/img/Rectangle 20170.png",
+      "recipe_id": "2",
+      "recipe_name": "Vegetable Soup",
+      "short_description": "A hearty vegetable soup full of fresh and seasonal veggies.",
+      "ingredients": [
+        "300g carrots",
+        "200g potatoes",
+        "150g celery",
+        "1 liter vegetable broth"
+      ],
+      "preparing_time": "45min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_image": "./public/img/Rectangle 20170 (1).png",
+      "recipe_id": "3",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta with creamy sauce, eggs, and pancetta.",
+      "ingredients": [
+        "250g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Parmesan cheese"
+      ],
+      "preparing_time": "20min",
+      "calories": "500 calories"
+    },
+    {
+      "recipe_image": "./public/img/Rectangle 20170.png",
+      "recipe_id": "4",
+      "recipe_name": "Greek Salad",
+      "short_description": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "ingredients": [
+        "200g tomatoes",
+        "100g cucumbers",
+        "50g olives",
+        "100g feta cheese"
+      ],
+      "preparing_time": "15min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "./public/img/Rectangle 20170 (1).png",
+      "recipe_id": "5",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Delicious homemade cookies with chocolate chips and a touch of vanilla.",
+      "ingredients": [
+        "150g butter",
+        "200g sugar",
+        "1 egg",
+        "200g chocolate chips"
+      ],
+      "preparing_time": "40min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "./public/img/Rectangle 20170.png",
+      "recipe_id": "6",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Perfectly grilled salmon with a lemon dill seasoning.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "2 tablespoons dill",
+        "1 tablespoon olive oil"
+      ],
+      "preparing_time": "25min",
+      "calories": "350 calories"
+    }
+  ]
+  

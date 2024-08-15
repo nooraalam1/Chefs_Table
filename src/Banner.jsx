@@ -9,19 +9,18 @@ const Banner = () => {
             </div>
            
                 <div className="center_text md:text-2xl">
-           <div className="">
+           <div className=" text-white">
            Discover An Exceptional Cooking <br />Class Tailored For You 
 
-<div className="md:mt-2">Learn and Master With Us </div>
+        <div className="md:mt-2">Learn and Master With Us </div>
            </div>
 
-           <div className="">
+           <div className="md:mt-4">
            <button className='btn btn-accent'>Explore Now</button> 
             <button className='btn btn-outline text-yellow-300'>Our Feedback</button> 
            </div>
 
-            </div>
-            
+            </div>   
         </div>
     );
 };
